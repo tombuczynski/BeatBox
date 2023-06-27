@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beat Box</string>
+    <string name="playback_rate">Playback rate: %.2f</string>
+</resources>
